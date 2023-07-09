@@ -14,3 +14,7 @@ And Thank You, for downloading Gacha Funk'....💖
 
 With love,
 Danny
+
+Edit (09/07/23):
+In the future I will release versions in different languages ​​because I don't know how to make a script (lua) to change the language...
+AND NOT. I AM NOT GOING TO DOWNLOAD THE PSYCH ENGINE SOURCE CODE AND RE-DO EVERYTHING I HAVE DONE.
