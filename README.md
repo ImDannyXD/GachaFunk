@@ -11,9 +11,10 @@ So....Just come with us!
 
 And Thank You, for downloading Gacha Funk....💖
 
-
 With love,
-Danny
+Danny.
+
+========================================================
 
 Edit (09/07/23):
 In the future I will release versions in different languages ​​because I don't know how to make a script (lua) to change the language...
