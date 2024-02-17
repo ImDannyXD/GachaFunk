@@ -6,7 +6,7 @@ Este mod de FNF se ha estado desarrollando desde 2021, para llegar y decir que e
 Ya puedes jugarlo y todo, como debió ser hace años atrás.
 
 
-LORE:
+# LORE:
 El juego en 2021 empezo como "FNF': El mod español y más", como todavía no había tantos mod de hanla hispana estaba haciendo el mío.
 Hasta que nunca lo termine.
 
@@ -26,4 +26,4 @@ Muchas Gracias por su apoyo en este mod, se los agradezco <3
 Algún día nos veremos en una update si?
 
 
-- Con cariño, John. -
+- Con cariño, John.
